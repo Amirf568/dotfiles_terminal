@@ -23,7 +23,7 @@ yay -S stow
 Git clone 
 
 ```
-$ git clone --recursive https://github.com/Amirf568/dotfiles_arch.git
+$ git clone --recursive https://github.com/Amirf568/dotfiles_terminal.git
 $ cd dotfiles
 ```
 

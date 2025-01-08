@@ -24,7 +24,7 @@ Git clone
 
 ```
 $ git clone --recursive https://github.com/Amirf568/dotfiles_terminal.git
-$ cd dotfiles
+$ cd dotfiles_terminal
 ```
 
 If the submodule (alacritty-theme repo) is not initialized, run:

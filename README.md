@@ -36,5 +36,5 @@ git submodule update --init --recursive
 then use GNU Stow for symlinks
 
 ```
-$ Stow .
+$ stow .
 ```

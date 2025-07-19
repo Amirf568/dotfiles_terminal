@@ -149,7 +149,6 @@ alias .3='cd ../../..'
 alias .4='cd ../../../..'
 alias .5='cd ../../../../..'
 
-
 # vim and emacs
 alias vim='nvim'
 alias emacs="emacsclient -c -a 'emacs'"
@@ -248,8 +247,3 @@ if status is-interactive
 end
 
 clear
-
-# Setting PATH for Python 3.12
-# The original version is saved in /Users/amir_f/.config/fish/config.fish.pysave
-set -x PATH "/Library/Frameworks/Python.framework/Versions/3.12/bin" "$PATH"
-

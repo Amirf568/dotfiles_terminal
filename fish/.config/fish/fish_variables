@@ -1,6 +1,6 @@
 # This file contains fish universal variable definitions.
 # VERSION: 3.0
-SETUVAR __fish_initialized:3400
+SETUVAR __fish_initialized:3800
 SETUVAR fish_color_cancel:\x2dr
 SETUVAR fish_color_comment:red
 SETUVAR fish_color_cwd:green
@@ -13,7 +13,7 @@ SETUVAR fish_color_host_remote:yellow
 SETUVAR fish_color_operator:brcyan
 SETUVAR fish_color_quote:yellow
 SETUVAR fish_color_redirection:cyan\x1e\x2d\x2dbold
-SETUVAR fish_color_search_match:bryellow\x1e\x2d\x2dbackground\x3dbrblack
+SETUVAR fish_color_search_match:white\x1e\x2d\x2dbackground\x3dbrblack
 SETUVAR fish_color_selection:white\x1e\x2d\x2dbold\x1e\x2d\x2dbackground\x3dbrblack
 SETUVAR fish_color_status:red
 SETUVAR fish_color_user:brgreen
@@ -24,4 +24,4 @@ SETUVAR fish_pager_color_description:yellow\x1e\x2di
 SETUVAR fish_pager_color_prefix:normal\x1e\x2d\x2dbold\x1e\x2d\x2dunderline
 SETUVAR fish_pager_color_progress:brwhite\x1e\x2d\x2dbackground\x3dcyan
 SETUVAR fish_pager_color_selected_background:\x2dr
-SETUVAR fish_user_paths:/home/amir/\x2ebin\x1e/home/amir/\x2elocal/bin\x1e/home/amir/\x2econfig/emacs/bin\x1e/home/amir/Applications\x1e/var/lib/flatpak/exports/bin/
+SETUVAR fish_user_paths:/Users/amir_f/\x2ebin\x1e/Users/amir_f/\x2elocal/bin\x1e/Users/amir_f/\x2econfig/emacs/bin\x1e/Users/amir_f/Applications\x1e/var/lib/flatpak/exports/bin/

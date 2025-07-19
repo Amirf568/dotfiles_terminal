@@ -18,6 +18,12 @@ yay -S git
 yay -S stow
 ```
 
+### TPM (Tmux) 
+
+```
+git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
+```
+
 ## Installation
 
 Git clone 
